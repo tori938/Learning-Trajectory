@@ -5,4 +5,6 @@
 13 - matplotlib, seaborn, plotly
 14 - null values, duplicates
 15 - object oriented programming
-16 - parsing
+16 - txt, excel, json
+17 - parsing
+18 - review
